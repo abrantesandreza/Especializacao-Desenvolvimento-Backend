@@ -28,7 +28,7 @@ Este repositório foi criado para armazenar os códigos desenvolvidos durante mi
 
 ## Tecnologias:
 
-- **Python
-- **Java
+- **Python**
+- **Java**
 
 
