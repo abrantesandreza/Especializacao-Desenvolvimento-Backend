@@ -22,7 +22,7 @@ Este repositório foi criado para armazenar os códigos desenvolvidos durante mi
 
 - **branch 'tecnologias-web-III':** Contém projetos e exercícios da disciplina de Tecnologias Web III, que aprofunda o conhecimento em desenvolvimento web, incluindo o uso de bibliotecas e ferramentas para front-end e back-end, e a construção de aplicações web escaláveis e seguras.
 
-- **branch 'bootcamp-tech-I':** Contém códigos e o projeto do bootcamp realizado com empresa parceira, aplicando os conhecimentos adquiridos nas disciplinas anteriores do curso.
+- **branch 'bootcamp-tech-I':** Contém códigos e o projeto do bootcamp realizado com empresa parceira, aplicando todos os conhecimentos adquiridos nas disciplinas anteriores do curso.
 
 - **branch bootcamp-tech-II:** Continuidade dos códigs e do projeto do bootcamp realizado com empresa parceira, aplicando os conhecimentos adquiridos nas disciplinas anteriores do curso.
 
