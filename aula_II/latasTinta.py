@@ -1,3 +1,5 @@
+import math
+
 print("--- Iniciando o programa ---")
 
 altura_cilindro = float(input("Qual a altura do cilindro? "))
@@ -8,7 +10,7 @@ area_lateral = (2 * PI * raio_cilindro * altura_cilindro)
 area_base = PI * (pow(raio_cilindro, 2))
 area_cilindro = area_base + area_lateral
 total_litros = area_cilindro / 3
-total_latas = total_litros / 5
+total_latas = math.ceil(total_litros / 5)
 
 custo_total = total_latas * 50.0
 
