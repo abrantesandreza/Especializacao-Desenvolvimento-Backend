@@ -1,4 +1,4 @@
-## Especialização em Desenvolvimento Backend Junior - UNIESP
+## Especialização em Desenvolvimento Backend - UNIESP
 
 Este repositório foi criado para armazenar os códigos desenvolvidos durante minha especialização em desenvolvimento backend junior na Universidade UNIESP. Cada branch corresponde a uma disciplina estudada durante o curso e contém os projetos e exercícios realizados naquela disciplina.
 
