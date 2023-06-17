@@ -11,3 +11,9 @@ for abacate in frutas:
 # Percorrendo outra tupla
 for i in frutas:
     print(f'Neste ciclo o valor de i é {i}')
+
+# Alterando o valor de uma tupla - forma incorreta
+# dimensoes[0] = 123456
+
+# Sobescrevendo o valor
+dimensoes = (400, 20)
