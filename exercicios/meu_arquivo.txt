@@ -1,0 +1,4 @@
+Eu amo programar em Python
+Eu amo programar em Javascript
+Saudades de programar em SQL
+Ansiosa para começar a estudar Java
